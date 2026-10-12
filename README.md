@@ -87,6 +87,19 @@ A modern IT support landing-page design concept focused on clear navigation, an 
 
 **Focus:** UI/UX design · Web design · Responsive layouts
 
+
+### 👗 [LUNA-CURVE](https://github.com/Slindile54/luna-curve)
+
+A stylish plus-size women's fashion e-commerce website designed to celebrate curves and make fashion accessible. Features clothing categories, product displays, and an interactive shopping experience with inclusive sizing from XL to 5XL.
+
+**Focus:** React, TypeScript, CSS, and responsive web design.
+
+### 🍔 [LunoBite](https://github.com/Slindile54/lunobite)
+
+A modern food-delivery website where users can explore fast food, drinks, and ice cream through a vibrant, user-friendly interface. Designed with purple, lavender, soft white, and charcoal colours, featuring the slogan *"Let Us Crave With You."*
+
+**Focus:** React, TypeScript, CSS, and UI/UX design.
+
 ## 🎓 Certifications & Learning
 
 - Google AI Essentials Specialization
