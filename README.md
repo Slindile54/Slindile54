@@ -69,8 +69,10 @@ A modern IT support landing-page design concept focused on clear navigation, an 
 - Google AI Essentials Specialization
 - Samsung Innovation Campus — Technical Programming and AI
 - IBM Data Science learning certificates
-- FNB Academy
+- FNB Academy 
 - SFIA Service Operations Practitioner
+- Professional Development
+- AI_Bootcamp
 
 Currently interested in expanding my knowledge of cloud technologies, AI, software development, and IT service management.
 
@@ -85,7 +87,7 @@ Currently interested in expanding my knowledge of cloud technologies, AI, softwa
 ## 🤝 Let's Connect
 
 - 💻 **GitHub:** [@Slindile54](https://github.com/Slindile54)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/slindiledlamini)
 
 ---
 
