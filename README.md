@@ -16,13 +16,25 @@
 
 ## 💫 About Me
 
-I'm an ICT Applications Development graduate and Digital Associate at CAPACITI, passionate about using technology to solve real-world problems.
+I'm an ICT Applications Development graduate and Digital Associate at CAPACITI with a strong passion for technology, innovation, and continuous learning.
 
-- 🤖 Exploring Artificial Intelligence and AI-powered applications.
-- 💻 Developing software and interactive web experiences.
-- 🛠️ Interested in IT support, troubleshooting, and digital services.
-- 🎨 Enjoy creating user-friendly digital experiences through UI/UX design.
-- 🌱 Continuously learning, experimenting, and growing as a developer.
+I'm fascinated by how technology can solve real-world problems, improve people's lives, and create smarter digital experiences. I enjoy exploring new technologies, experimenting with ideas, and turning what I learn into practical projects.
+
+🤖 **Artificial Intelligence**: I enjoy exploring AI tools and building intelligent applications that make information more accessible and everyday tasks easier.
+
+🧠 **Machine Learning**: I'm passionate about learning how machines identify patterns, learn from data, and make predictions. I enjoy exploring how machine learning can be applied to real-world challenges.
+
+🔐 **Cybersecurity**: I'm interested in understanding how systems, networks, and applications are protected against cyber threats. I enjoy learning about online safety, vulnerabilities, security best practices, and protecting digital information.
+
+💻 **Software Development**: I enjoy developing applications, exploring programming languages, and building solutions that combine functionality with a good user experience.
+
+🛠️ **IT Support**: I'm interested in troubleshooting technical issues, understanding how systems work, and helping users overcome technology-related challenges.
+
+🎨 **UI/UX & Digital Innovation**: I enjoy creating clean, intuitive, and user-friendly interfaces that make digital products easier and more enjoyable to use.
+
+🌱 **Continuous Learning**: I'm always excited to learn new skills, experiment with emerging technologies, and challenge myself through projects and hands-on experiences.
+
+My goal is to continue growing as a technology professional while exploring the intersection of AI, Machine Learning, Cybersecurity, and Software Development to build useful, secure, and innovative digital solutions.
 
 ## 🛠️ Technologies & Tools
 
@@ -35,8 +47,19 @@ I'm an ICT Applications Development graduate and Digital Associate at CAPACITI, 
 ![Git](https://img.shields.io/badge/Git-7C6EE6?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-BB86FC?style=for-the-badge&logo=figma&logoColor=black)
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-C74634?style=for-the-badge&logo=oracle&logoColor=white)
+![Base44](https://img.shields.io/badge/Base44-8B5CF6?style=for-the-badge)
+![Botpress](https://img.shields.io/badge/Botpress-7C6EE6?style=for-the-badge&logo=botpress&logoColor=white)
 
-**Areas of interest:** Artificial Intelligence · Machine Learning · IT Support · UI/UX Design · Web Development · Cloud Computing
+
+## 🔍 Areas of Interest
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-9575CD?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6C4AB6?style=for-the-badge)
+![IT Support](https://img.shields.io/badge/IT_Support-7C6EE6?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-BB86FC?style=for-the-badge)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-C4B5FD?style=for-the-badge&logo=figma&logoColor=black)
 
 ## 🚀 Featured Projects
 
