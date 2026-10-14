@@ -100,6 +100,12 @@ A modern food-delivery website where users can explore fast food, drinks, and ic
 
 **Focus:** React, TypeScript, CSS, and UI/UX design.
 
+### 📊 [Lumina Support — Analytics Dashboard](https://github.com/Slindile54/Lumina-Support-Analytics-Dashboard)
+
+A modern support analytics dashboard designed to help support teams monitor ticket performance, track ticket statuses and priorities, and gain insights into customer support operations through an interactive interface.
+
+**Focus:** Data Visualization · IT Support · Ticket Analytics · Dashboard UI/UX
+
 ## 🎓 Certifications & Learning
 
 - Google AI Essentials Specialization
