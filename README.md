@@ -106,6 +106,14 @@ A modern support analytics dashboard designed to help support teams monitor tick
 
 **Focus:** Data Visualization · IT Support · Ticket Analytics · Dashboard UI/UX
 
+
+### 🎵 [LumiListen — Mood-Based Music Discovery Website](https://github.com/Slindile54/-LumiListen)
+
+An interactive music discovery website that helps users explore music based on their emotions and personal preferences. Users can select their favourite genres, choose their current mood, and discover personalised playlists through a modern, responsive interface.
+
+**Focus:** Music Discovery · Mood-Based Recommendations · UI/UX Design · Responsive Web Development
+
+
 ## 🎓 Certifications & Learning
 
 - Google AI Essentials Specialization
